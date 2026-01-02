@@ -1,0 +1,11 @@
+# Data (never commit)
+data/raw/
+data/processed/
+
+# Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
